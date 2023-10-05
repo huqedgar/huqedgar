@@ -52,7 +52,7 @@
 <a href="https://trello.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
 </p>
 
-<!-- ### Trophies
+### Trophies
 
 <img width="900" src="https://github-profile-trophy.vercel.app/?username=huqedgar&column=7&theme=onedark&no-frame=true"/>
 
@@ -66,6 +66,6 @@
 
 ### Contribution Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huqedgar&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huqedgar&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
